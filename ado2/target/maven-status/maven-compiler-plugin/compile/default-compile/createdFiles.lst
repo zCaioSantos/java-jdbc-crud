@@ -1,0 +1,6 @@
+View\ComputadorSHOP$1.class
+View\ComputadorSHOP.class
+View\ComputadorSHOP$2.class
+Utils\Conexao.class
+DAO\ComputadorDAO.class
+model\Computador.class
