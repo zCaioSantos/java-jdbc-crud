@@ -2,15 +2,6 @@
 
 Este repositório contém um projeto CRUD simples em Java que utiliza JDBC para a realização de operações em um banco de dados.
 
-## Demonstração
-
-Aqui estão algumas capturas de tela que demonstram o funcionamento do projeto:
-
-<img src="https://user-images.githubusercontent.com/81544166/137597628-c83dff24-3a57-4bca-a191-3d6e999e82c1.png" alt="Tela inicial" width="500">
-<img src="https://user-images.githubusercontent.com/81544166/137597679-ef32ca99-dd1f-4b9c-843f-03b4aaa9ffc3.png" alt="Tela de cadastro" width="500">
-<img src="https://user-images.githubusercontent.com/81544166/137597685-19b92936-7c6c-478a-8271-33397fa2703a.png" alt="Tela de consulta" width="500">
-
-
 ## Instalação
 
 Para utilizar este projeto, siga as etapas abaixo:
@@ -30,3 +21,14 @@ Este projeto possui uma estrutura básica para a realização de operações CRU
 ## Contribuição
 
 Contribuições para a melhoria deste projeto são bem-vindas. Se você encontrou um problema ou tem uma sugestão de melhoria, por favor, crie uma issue no repositório do GitHub. Pull requests também são aceitos.
+
+## Demonstração
+
+Aqui estão algumas capturas de tela que demonstram o funcionamento do projeto:
+
+<img src="https://user-images.githubusercontent.com/81544166/137597628-c83dff24-3a57-4bca-a191-3d6e999e82c1.png" alt="Tela inicial" width="500">
+<img src="https://user-images.githubusercontent.com/81544166/137597679-ef32ca99-dd1f-4b9c-843f-03b4aaa9ffc3.png" alt="Tela de cadastro" width="500">
+<img src="https://user-images.githubusercontent.com/81544166/137597685-19b92936-7c6c-478a-8271-33397fa2703a.png" alt="Tela de consulta" width="500">
+
+
+
